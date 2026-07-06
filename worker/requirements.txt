@@ -1,0 +1,10 @@
+redis
+rq
+sqlalchemy
+psycopg2-binary
+python-dotenv
+requests
+mlflow
+chromadb
+pymupdf
+pillow
